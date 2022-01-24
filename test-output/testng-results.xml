@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-24T23:36:51 GMT+05:30" name="Default suite" finished-at="2022-01-24T23:39:13 GMT+05:30" duration-ms="142176">
+    <groups>
+    </groups>
+    <test started-at="2022-01-24T23:36:51 GMT+05:30" name="Default test" finished-at="2022-01-24T23:39:13 GMT+05:30" duration-ms="142176">
+      <class name="runner.WebApp">
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:36:51 GMT+05:30" name="Before" finished-at="2022-01-24T23:37:00 GMT+05:30" duration-ms="8510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="HomePage()[pri:1, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:00 GMT+05:30" name="HomePage" finished-at="2022-01-24T23:37:00 GMT+05:30" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:00 GMT+05:30" name="After" finished-at="2022-01-24T23:37:00 GMT+05:30" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:00 GMT+05:30" name="Before" finished-at="2022-01-24T23:37:04 GMT+05:30" duration-ms="4190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="LocalPage()[pri:1, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:04 GMT+05:30" name="LocalPage" finished-at="2022-01-24T23:37:29 GMT+05:30" duration-ms="24494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LocalPage -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:29 GMT+05:30" name="After" finished-at="2022-01-24T23:37:29 GMT+05:30" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:29 GMT+05:30" name="Before" finished-at="2022-01-24T23:37:34 GMT+05:30" duration-ms="4355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="SignUp()[pri:2, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:34 GMT+05:30" name="SignUp" finished-at="2022-01-24T23:37:38 GMT+05:30" duration-ms="3965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUp -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:38 GMT+05:30" name="After" finished-at="2022-01-24T23:37:38 GMT+05:30" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:38 GMT+05:30" name="Before" finished-at="2022-01-24T23:37:42 GMT+05:30" duration-ms="4530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="HomepageLogin()[pri:3, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:42 GMT+05:30" name="HomepageLogin" finished-at="2022-01-24T23:37:46 GMT+05:30" duration-ms="3711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomepageLogin -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:46 GMT+05:30" name="After" finished-at="2022-01-24T23:37:46 GMT+05:30" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:46 GMT+05:30" name="Before" finished-at="2022-01-24T23:37:51 GMT+05:30" duration-ms="4400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="AboutPage()[pri:4, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:51 GMT+05:30" name="AboutPage" finished-at="2022-01-24T23:37:52 GMT+05:30" duration-ms="1463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AboutPage -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:52 GMT+05:30" name="After" finished-at="2022-01-24T23:37:52 GMT+05:30" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:52 GMT+05:30" name="Before" finished-at="2022-01-24T23:37:57 GMT+05:30" duration-ms="4360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="ContactPage()[pri:5, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:57 GMT+05:30" name="ContactPage" finished-at="2022-01-24T23:37:59 GMT+05:30" duration-ms="2686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactPage -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:59 GMT+05:30" name="After" finished-at="2022-01-24T23:37:59 GMT+05:30" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:37:59 GMT+05:30" name="Before" finished-at="2022-01-24T23:38:02 GMT+05:30" duration-ms="3048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="OnewayPage()[pri:6, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:38:02 GMT+05:30" name="OnewayPage" finished-at="2022-01-24T23:38:14 GMT+05:30" duration-ms="11203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnewayPage -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:38:14 GMT+05:30" name="After" finished-at="2022-01-24T23:38:14 GMT+05:30" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:38:14 GMT+05:30" name="Before" finished-at="2022-01-24T23:38:19 GMT+05:30" duration-ms="4581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="OutstationPage()[pri:8, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:38:19 GMT+05:30" name="OutstationPage" finished-at="2022-01-24T23:38:36 GMT+05:30" duration-ms="17592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OutstationPage -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:38:36 GMT+05:30" name="After" finished-at="2022-01-24T23:38:36 GMT+05:30" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:38:36 GMT+05:30" name="Before" finished-at="2022-01-24T23:38:41 GMT+05:30" duration-ms="4350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="AirportPage()[pri:9, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:38:41 GMT+05:30" name="AirportPage" finished-at="2022-01-24T23:39:00 GMT+05:30" duration-ms="19665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AirportPage -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:39:00 GMT+05:30" name="After" finished-at="2022-01-24T23:39:01 GMT+05:30" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:39:01 GMT+05:30" name="Before" finished-at="2022-01-24T23:39:05 GMT+05:30" duration-ms="4569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="CorporatePage()[pri:10, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:39:05 GMT+05:30" name="CorporatePage" finished-at="2022-01-24T23:39:13 GMT+05:30" duration-ms="7894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CorporatePage -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:39:13 GMT+05:30" name="After" finished-at="2022-01-24T23:39:13 GMT+05:30" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="flush()[pri:0, instance:runner.WebApp@3d9c13b5]" started-at="2022-01-24T23:39:13 GMT+05:30" name="flush" finished-at="2022-01-24T23:39:14 GMT+05:30" duration-ms="411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- runner.WebApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
